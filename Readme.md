@@ -7,8 +7,7 @@ Thank God for another day to learn, to enjoy, to explore, to wish, to observe, t
 [PMP](./PMP/PMP.md)
 
 ## Technical 
-[Computer Networking CCNA](./CCNA/CCNA.md)
-[Go to File 2](./file2.md)
-
-[User authentication system (session) Nodejs tpyescript express mongodb ](./interactBlog/backend/progress.md)
-Java springboot (Coming soon)
+1. [Computer Networking CCNA](./CCNA/CCNA.md)
+2. [User authentication system (session)](./interactBlog/backend/progress.md)
+    - Nodejs tpyescript express mongodb 
+3. Java springboot (Coming soon)
